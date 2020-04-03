@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Randomhex/static/css/main.a98e23f5.chunk.css",
+    "main.js": "/Randomhex/static/js/main.eeddef13.chunk.js",
+    "main.js.map": "/Randomhex/static/js/main.eeddef13.chunk.js.map",
+    "runtime-main.js": "/Randomhex/static/js/runtime-main.c133cc9a.js",
+    "runtime-main.js.map": "/Randomhex/static/js/runtime-main.c133cc9a.js.map",
+    "static/js/2.c553b199.chunk.js": "/Randomhex/static/js/2.c553b199.chunk.js",
+    "static/js/2.c553b199.chunk.js.map": "/Randomhex/static/js/2.c553b199.chunk.js.map",
+    "index.html": "/Randomhex/index.html",
+    "precache-manifest.d78dbc7d0e3b8b49b9591d348fe2ee32.js": "/Randomhex/precache-manifest.d78dbc7d0e3b8b49b9591d348fe2ee32.js",
+    "service-worker.js": "/Randomhex/service-worker.js",
+    "static/css/main.a98e23f5.chunk.css.map": "/Randomhex/static/css/main.a98e23f5.chunk.css.map",
+    "static/js/2.c553b199.chunk.js.LICENSE.txt": "/Randomhex/static/js/2.c553b199.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c133cc9a.js",
+    "static/js/2.c553b199.chunk.js",
+    "static/css/main.a98e23f5.chunk.css",
+    "static/js/main.eeddef13.chunk.js"
+  ]
+}
