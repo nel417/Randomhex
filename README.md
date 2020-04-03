@@ -1,3 +1,8 @@
+
+<strong>view project here</strong>: https://nel417.github.io/Randomhex/ </br>
+Thank you! </br>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
