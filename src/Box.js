@@ -49,25 +49,25 @@ class Box extends Component {
       "#ee8572",
       "#bbcfff",
       "#21bf73",
-      "#a7e9af"
-    ]
+      "#a7e9af",
+    ],
   };
 
   constructor(props) {
     super(props);
     this.state = {
-      color: this.choice(this.props.colorArr)
+      color: this.choice(this.props.colorArr),
     };
   }
 
   handleClick = () => {
     let newColor = this.choice(this.props.colorArr);
     this.setState({
-      color: newColor
+      color: newColor,
     });
   };
 
-  choice = arr => {
+  choice = (arr) => {
     let randomI = Math.floor(Math.random() * arr.length);
     return arr[randomI];
   };
@@ -77,7 +77,7 @@ class Box extends Component {
       <div
         className="Box"
         style={{
-          backgroundColor: this.state.color
+          backgroundColor: this.state.color,
         }}
         onClick={this.handleClick}
       ></div>
