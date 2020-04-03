@@ -1,5 +1,5 @@
 {
-  "homepage": "http://nel417.github.io/Randomhex",
+  "homepage": "https://nel417.github.io/Randomhex/",
   "name": "color",
   "version": "0.1.0",
   "private": true,
@@ -12,12 +12,12 @@
     "react-scripts": "3.4.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "resolutions": {
     "@babel/preset-env": "7.5.5"
